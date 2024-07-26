@@ -21,13 +21,6 @@ body {
   
     background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
 }
-.contenedor {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 20px;
-  
-}
 
 .card {
    
@@ -45,6 +38,18 @@ body {
     height: 300px;
     /* width: 370px; */
 }
+
+
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-around;
+  
+}
+
+
+
 
 .card img {
    
